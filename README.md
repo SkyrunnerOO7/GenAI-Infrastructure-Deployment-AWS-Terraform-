@@ -1,1 +1,1 @@
-# GenAI-Infrastructure-Deployment-AWS-Terraform-
+# GenAI-Infrastructure-Deployment-AWS-Terraform
